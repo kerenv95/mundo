@@ -1,0 +1,48 @@
+{
+    "Africa": {}
+    "America": {
+        "Argentina": {
+            "idiomas": ["Español"],
+            "gentilicio": "Argentino",
+            "capital": "Buenos Aires",
+            "ciudades": ["CBA", "La Plata", "Rosario"]
+        },
+        "Canadá": {
+            "idiomas": ["Ingles", "Frances"],
+            "gentilicio": "Canadiense",
+            "capital": "Ottawa"
+            "ciudades": ["Vancouver", "Toronto", "Quèbec", "Montreal", "Victoria"]
+        },
+        "Colombia": {
+            "idiomas": ["Español"],
+            "gentilicio": "Colombiano",
+            "capital": "Bogotá"
+            "ciudades": ["Cali", "Medellin", "Barranquilla", "Pereira"]
+        },
+        "U.S.A": {
+            "idiomas": ["Ingles"],
+            "gentilicio": "Estadounidense",
+            "capital": "Washington D.C.",
+            "ciudades": ["Nueva York", "Los Angeles", "Las Vegas"]
+        },
+        "Venezuela": {
+            "idiomas": ["Español"],
+            "gentilicio": "Venezolano",
+            "capital": "Caracas"
+            "ciudades": ["Maracaibo", "Valencia", "Barquisimeto"]
+        }
+    }
+    "Asia": {
+        ""Japon":{},
+        "China":{},
+        "Korea":{},
+        "Vietnam":{},
+        "Tailandia":{},
+        "Mongolia":{},
+        "India":{}
+    }
+    "Europa":{
+    },
+    "Oceania":{
+    }
+}
