@@ -11,13 +11,13 @@
         "Canadá": {
             "idiomas": ["Ingles", "Frances"],
             "gentilicio": "Canadiense",
-            "capital": "Ottawa"
+            "capital": "Ottawa",
             "ciudades": ["Vancouver", "Toronto", "Quèbec", "Montreal", "Victoria"]
         },
         "Colombia": {
             "idiomas": ["Español"],
             "gentilicio": "Colombiano",
-            "capital": "Bogotá"
+            "capital": "Bogotá",
             "ciudades": ["Cali", "Medellin", "Barranquilla", "Pereira"]
         },
         "U.S.A": {
@@ -29,7 +29,7 @@
         "Venezuela": {
             "idiomas": ["Español"],
             "gentilicio": "Venezolano",
-            "capital": "Caracas"
+            "capital": "Caracas",
             "ciudades": ["Maracaibo", "Valencia", "Barquisimeto"]
         }
     },
