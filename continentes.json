@@ -44,15 +44,26 @@
          "idiomas": ["Mandarin"],
          "gentilicio": "Chino",
          "capital": "Pekín",
-         "ciudades": ["Hiroshima", "Osaka", "Kioto"]
+         "ciudades": ["Shanghái", "Cantón", "Nankín"]
         },
-        "Korea":{},
+        "Korea":{
+        "idiomas": ["Coreano"],
+         "gentilicio": "Coreano",
+         "capital": "Seúl",
+         "ciudades": ["Busan", "Suwon", "Jeonju"]
+        },
         "Vietnam":{},
         "Tailandia":{},
         "Mongolia":{},
         "India":{}
     },
     "Europa":{
+        "Alemania":{
+         "idiomas": ["Aleman"],
+         "gentilicio": "Aleman",
+         "capital": "Berlín",
+         "ciudades": ["Hiroshima", "Osaka", "Kioto"]
+        },
     },
     "Oceania":{
     }
