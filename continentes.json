@@ -43,6 +43,12 @@
         "India":{}
     },
     "Europa":{
+        "Alemania":{
+         "idiomas": ["Aleman"],
+         "gentilicio": "Aleman",
+         "capital": "Berlín",
+         "ciudades": ["Hiroshima", "Osaka", "Kioto"]
+        },
     },
     "Oceania":{
     }
