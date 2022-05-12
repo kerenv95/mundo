@@ -31,16 +31,16 @@
             "capital": "Caracas"
             "ciudades": ["Maracaibo", "Valencia", "Barquisimeto"]
         }
-    }
+    },
     "Asia": {
-        ""Japon":{},
+        "Japon":{},
         "China":{},
         "Korea":{},
         "Vietnam":{},
         "Tailandia":{},
         "Mongolia":{},
         "India":{}
-    }
+    },
     "Europa":{
     },
     "Oceania":{
