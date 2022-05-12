@@ -34,8 +34,18 @@
         }
     },
     "Asia": {
-        "Japon":{},
-        "China":{},
+        "Japon":{
+         "idiomas": ["Japones"],
+         "gentilicio": "Japones",
+         "capital": "Tokio",
+         "ciudades": ["Hiroshima", "Osaka", "Kioto"]
+        },
+        "China":{
+         "idiomas": ["Mandarin"],
+         "gentilicio": "Chino",
+         "capital": "Pekín",
+         "ciudades": ["Hiroshima", "Osaka", "Kioto"]
+        },
         "Korea":{},
         "Vietnam":{},
         "Tailandia":{},
