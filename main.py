@@ -9,11 +9,11 @@ pais = input()
 
 if pais in continentes["America"]:
     print(continentes["America"][pais]["capital"])
-    print(continentes["America"][pais]["idiomas"])
-    print(continentes["America"][pais]["ciudades"])
+    print(continentes["America"][pais]["language"])
+    print(continentes["America"][pais]["cities"])
 
 
 if pais in continentes["Africa"]:
     print(continentes["Africa"][pais]["capital"])
-    print(continentes["America"][pais]["idiomas"])
-    print(continentes["America"][pais]["ciudades"])
+    print(continentes["America"][pais]["language"])
+    print(continentes["America"][pais]["cities"])
