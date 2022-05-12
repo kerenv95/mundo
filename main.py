@@ -3,13 +3,10 @@ import json
 
 pais = input()
 
-data = requests.get("https://restcountries.com/v3.1/name/" + pais)
+data = requests.get("http://181.129.219.106:3002/" + pais)
 
 continentes = json.loads(data.text)
 
-print(json.dumps(continentes, indent=2))
-
-"""
 if pais in continentes["America"]:
     print(continentes["America"][pais]["capital"])
     print(continentes["America"][pais]["idiomas"])
